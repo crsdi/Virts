@@ -1,2 +1,2 @@
 # Virts
-Plate-forme  vituel de CRES
+Plate-forme  virtuelle de CRES
